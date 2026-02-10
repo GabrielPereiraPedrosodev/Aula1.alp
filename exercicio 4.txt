@@ -1,0 +1,14 @@
+04- lavar a louça
+
+1- leve a louça ate a pia 
+2- ligue a torneira
+3- passe uma agua no prato para tirar o excesso
+4- desligue a torneira
+5- pegue a esponja e o sabao
+6- passe o sabao na esponja
+7- lave o prato com a esponja
+8- ligue a torneira e limpe o sabao do  prato
+9- desligue a torneira
+10- seque o prato
+11- guarde o prato 
+12- repita o processo ate a louça acabar.
